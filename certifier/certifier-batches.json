@@ -1,0 +1,101 @@
+{
+  "pending": {},
+  "certified": {
+    "ab2aee614da443188241c532ae47d618b260f0e8a4e5f2a141a34252dba215bf": {
+      "batchId": "ab2aee614da443188241c532ae47d618b260f0e8a4e5f2a141a34252dba215bf",
+      "producer": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "producerName": "Wine Producer CLI",
+      "batchName": "test",
+      "grapeVariety": "test",
+      "location": "test",
+      "productionDate": "2222-22-22",
+      "requestTimestamp": 1743100310,
+      "status": "Shipped to Retailer",
+      "receivedAt": 1743100323,
+      "certifications": [
+        "Premium Quality"
+      ],
+      "notes": "test",
+      "certifiedAt": 1743100360,
+      "transactionHash": "0xf9bbca69b5ee5cb00d2ac670d7dcfe425f581cc1d6e6ae77cb341cb307ef6ea7",
+      "sentToRetailer": {
+        "retailerId": "retailer1",
+        "retailerName": "Premium Wine Shop",
+        "retailerAddress": "0x456f681646d4a755815f9cb19e1acc8565a0c2ac",
+        "timestamp": 1743100428
+      }
+    },
+    "1fb9125c80d75606c43cc0a7fef8f12a494d23a01bec5cbcdec2e9506806881d": {
+      "batchId": "1fb9125c80d75606c43cc0a7fef8f12a494d23a01bec5cbcdec2e9506806881d",
+      "producer": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "producerName": "Wine Producer CLI",
+      "batchName": "de",
+      "grapeVariety": "w",
+      "location": "we",
+      "productionDate": "2222-2",
+      "requestTimestamp": 1743100912,
+      "status": "Shipped to Retailer",
+      "receivedAt": 1743100925,
+      "certifications": [
+        "Organic"
+      ],
+      "notes": "w",
+      "certifiedAt": 1743100946,
+      "transactionHash": "0xe39a35355f63dde94e441ba32c67c44fe3be15b35e3e51e51df77b49710f3a56",
+      "sentToRetailer": {
+        "retailerId": "retailer1",
+        "retailerName": "Premium Wine Shop",
+        "retailerAddress": "0x456f681646d4a755815f9cb19e1acc8565a0c2ac",
+        "timestamp": 1743101001
+      }
+    },
+    "08e3ef62abfcb1e8f199428b045eb54fcb79c257887f043b11a2eefa09711c03": {
+      "batchId": "08e3ef62abfcb1e8f199428b045eb54fcb79c257887f043b11a2eefa09711c03",
+      "producer": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "producerName": "Wine Producer CLI",
+      "batchName": "domp",
+      "grapeVariety": "es",
+      "location": "sdf",
+      "productionDate": "2024-12-12",
+      "requestTimestamp": 1743168703,
+      "status": "Shipped to Retailer",
+      "receivedAt": 1743168709,
+      "certifications": [
+        "Organic"
+      ],
+      "notes": "test",
+      "certifiedAt": 1743168744,
+      "transactionHash": "0xc585ed9054bc5fb028ec72f248563653d42891c557d96b4b397dff3db6f0b2a5",
+      "sentToRetailer": {
+        "retailerId": "retailer1",
+        "retailerName": "Premium Wine Shop",
+        "retailerAddress": "0x456f681646d4a755815f9cb19e1acc8565a0c2ac",
+        "timestamp": 1743168764
+      }
+    },
+    "a38768d7055255aa294ab1ddf62e403fa52ebb3834ffc6056fc3362e8a552a7c": {
+      "batchId": "a38768d7055255aa294ab1ddf62e403fa52ebb3834ffc6056fc3362e8a552a7c",
+      "producer": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "producerName": "Wine Producer CLI",
+      "batchName": "VinoDiTest",
+      "grapeVariety": "test",
+      "location": "test",
+      "productionDate": "2025-01-01",
+      "requestTimestamp": 1744730282,
+      "status": "Shipped to Retailer",
+      "receivedAt": 1744730293,
+      "certifications": [
+        "Organic"
+      ],
+      "notes": "certificato okay",
+      "certifiedAt": 1744730333,
+      "transactionHash": "0x18993197fef221b81b7c7fc4b778e8ab693808d7ea7dc486ac8b02a89bda56ad",
+      "sentToRetailer": {
+        "retailerId": "retailer1",
+        "retailerName": "Premium Wine Shop",
+        "retailerAddress": "0x456f681646d4a755815f9cb19e1acc8565a0c2ac",
+        "timestamp": 1744730347
+      }
+    }
+  }
+}
