@@ -45,7 +45,7 @@ Il sistema è composto da:
 
 1. Clona il repository:
    ```
-   git clone [url-repository]
+   git clone https://github.com/Deniscartin/Iperchain
    cd iperchain
    ```
 
